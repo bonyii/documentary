@@ -50,6 +50,8 @@ class CarsController < ApplicationController
 end
 ```
 
+![alt text](https://raw.githubusercontent.com/bonyiii/documentary/master/docs/documentary_demo_small.gif)
+
 ### Param definitions
 
 Right now documentary simply indicates whether a param is required or optional but does not do any kind of validation on the incoming params.
